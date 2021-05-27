@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.kt-datatable.kt-datatable--default > .kt-datatable__pager {
+    margin: 0;
+    padding: 15px 15px 20px 15px;
+}
+
+.kt-aside__brand-logo a img {
+    width: 80px !important;
+}
+
+.kt-login__logo a img{
+    width: 180px !important;
+    height: 180px !important;
+}
+
+.kt-login.kt-login--v2 .kt-login__wrapper .kt-login__container .kt-login__logo {
+    text-align: center;
+    margin: 0 auto 0 auto !important;
+}
+.kt-login.kt-login--v2 .kt-login__wrapper .kt-login__container .kt-form {
+    margin: 0 auto !important;
+}
+.btn-right{
+    margin-right: 20px;
+    position: relative;
+    top: -41px;
+    float: right;
+}
+
+@media (max-width: 1000px) {
+    .kt-aside--minimize .kt-aside-menu .kt-menu__nav > .kt-menu__item.menu-item > .kt-menu__link.menu-item-link .kt-menu__link-text.menu-item-link-text {
+        display: inline;
+        padding-left: 20px;
+    }
+    .kt-aside--minimize .kt-aside-menu .kt-menu__nav .kt-menu__item.menu-item > .kt-menu__link.menu-item-link {
+        text-align: left;
+        margin-left: 30px;
+    }
+}

@@ -1,0 +1,19 @@
+
+[data-field="created_at"] span{
+    width: 150px !important;
+}
+[data-field="phone"] span{
+    width: 110px !important;
+}
+[data-field="first_name"] span{
+    width: 150px !important;
+}
+[data-field="last_name"] span{
+    width: 150px !important;
+}
+[data-field="type_id"] span{
+    width: 110px !important;
+}
+[data-field="service_type"] span{
+    width: 150px !important;
+}

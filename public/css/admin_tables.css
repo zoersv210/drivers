@@ -1,0 +1,11 @@
+.actions {
+    display: none;
+}
+
+[data-field="customer_id"] span{
+    width: 110px !important;
+}
+
+[data-field="status"] span{
+    width: 130px !important;
+}

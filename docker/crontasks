@@ -1,0 +1,2 @@
+# laravel schedule
+* * * * * /usr/local/bin/php /var/www/artisan schedule:run >> /dev/null 2>&1

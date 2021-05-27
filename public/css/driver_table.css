@@ -1,0 +1,10 @@
+
+[data-field="status"] span{
+    width: 110px !important;
+}
+[data-field="phone"] span{
+    width: 110px !important;
+}
+[data-field="first_name"] span{
+    width: 150px !important;
+}
